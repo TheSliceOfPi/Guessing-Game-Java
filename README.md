@@ -1,2 +1,2 @@
-# Guessing-Game-Java
+# Guessing-Game
 Simple guessing game using Java
